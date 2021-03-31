@@ -1,6 +1,6 @@
 OVERVIEW
 <ul>
-<li> Data types <li>
+<li> Data types </li>
 <li> Dynamic typing </li>
 <li>Strings </li>
 <li>Numbers</li>
