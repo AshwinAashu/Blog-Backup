@@ -1,8 +1,7 @@
 OVERVIEW
 <ul>
 <li> Data types <li>
-<li> 
-Dynamic typing </li>
+<li> Dynamic typing </li>
 <li>Strings </li>
 <li>Numbers</li>
 <li>Booleans</li>
@@ -67,7 +66,9 @@ console.log(places);
 Bangalore,
 Mumbai, 
 New Delhi
-NUMBERS
+
+
+<h4>NUMBERS </h4>
 Unlike languages like Python and C / C++ , JavaScript uses single data type for integers and decimal numbers. This data type is called ‘Numbers’. Scientific notations are also allowed.
 
 var a = 13; 
