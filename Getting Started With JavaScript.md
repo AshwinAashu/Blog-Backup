@@ -45,7 +45,7 @@ Now, building on the two sections that we have just covered, let us do some real
 
 In the below example, we have first declared and assigned values to our variables a and b. After that, we have performed some basic mathematical operations on the variables. Notice that the operations are directly performed into the console.log( ) statement and not being stored in any specific variable. You may also notice that we have used ‘ \n’ which is a newline operator, meaning that it sends the output after it onto a new line below it.
 <br>
-<img src="./img-resources/basic-js-operations.jpg">
+<img src="./img-resources/basic-js-operations.JPG">
 <br>
 In JavaScript, we use a comma ( , ) to separate a message from the variables in the console.log( ) statement. The message part is always enclosed by inverted commas. While you can use single inverted comma for the message part, we tend to use the double inverted comma as a convention.
 
