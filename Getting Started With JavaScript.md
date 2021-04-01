@@ -1,9 +1,13 @@
 CONTENTS :
--Overview
--Hello, World!
--Declaring Variables
--Performing Basic Operations
--Reference
+<ul>
+  
+<li>Overview</li>
+<li>Hello, World!</li>
+<li>Declaring Variables</li>
+<li>Performing Basic Operations</li>
+<li>Reference</li>
+</ul>
+
 
 <h4>OVERVIEW</h4>
 In the 2020 StackOverflow survey, JavaScript came out as the most used language. This is the eighth consecutive year it has done so! It is not at all surprising given that since it’s inception, JS has come a long way and is now powering most websites – be it at the frontend or the backend. Learning JS can be a huge booster to your skill set and can help you start your career as a web developer.
